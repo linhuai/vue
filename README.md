@@ -1,7 +1,7 @@
 # VUE
 
 
-##Vue挂载的三种方法
+## Vue挂载的三种方法
 
 第一种,最常见.vue-cli模板就是这样
 
@@ -38,7 +38,7 @@ new Vue({
 })
 ```
 
-###Plugins
+### Plugins
 
 
 ```
